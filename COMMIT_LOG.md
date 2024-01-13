@@ -1,2 +1,3 @@
 - 2024-01-13 18:37:42: refactor(state): implement state migration (1/4)
 - 2024-01-13 21:34:24: docs(streaming): tool call streaming (2/4)
+- 2024-01-13 22:49:26: fix(debug): add trace export (3/4)
