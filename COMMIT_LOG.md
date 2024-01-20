@@ -2,3 +2,4 @@
 - 2024-01-13 21:34:24: docs(streaming): tool call streaming (2/4)
 - 2024-01-13 22:49:26: fix(debug): add trace export (3/4)
 - 2024-01-13 21:52:41: docs(debug): implement step-through debugging (4/4)
+- 2024-01-20 22:54:28: test(streaming): tool call streaming (1/3)
