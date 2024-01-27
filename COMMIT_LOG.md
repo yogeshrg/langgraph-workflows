@@ -6,3 +6,4 @@
 - 2024-01-20 11:04:30: fix(state): add state validation (2/3)
 - 2024-01-20 22:34:24: feat(debug): implement step-through debugging (3/3)
 - 2024-01-23 23:18:14: feat(streaming): token streaming via SSE
+- 2024-01-27 13:57:01: feat(debug): implement step-through debugging (1/2)
