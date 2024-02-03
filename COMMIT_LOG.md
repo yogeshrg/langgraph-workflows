@@ -8,3 +8,4 @@
 - 2024-01-23 23:18:14: feat(streaming): token streaming via SSE
 - 2024-01-27 13:57:01: feat(debug): implement step-through debugging (1/2)
 - 2024-01-27 12:33:26: refactor(edges): implement dynamic routing (2/2)
+- 2024-02-03 12:31:58: test(state): add state validation (1/3)
