@@ -10,3 +10,4 @@
 - 2024-01-27 12:33:26: refactor(edges): implement dynamic routing (2/2)
 - 2024-02-03 12:31:58: test(state): add state validation (1/3)
 - 2024-02-03 09:57:51: refactor(checkpoint): implement time-travel (2/3)
+- 2024-02-03 18:19:40: feat(nodes): add tool calling node (3/3)
