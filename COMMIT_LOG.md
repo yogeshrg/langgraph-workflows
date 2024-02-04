@@ -11,3 +11,4 @@
 - 2024-02-03 12:31:58: test(state): add state validation (1/3)
 - 2024-02-03 09:57:51: refactor(checkpoint): implement time-travel (2/3)
 - 2024-02-03 18:19:40: feat(nodes): add tool calling node (3/3)
+- 2024-02-04 15:36:22: docs(nodes): add tool calling node (1/4)
