@@ -14,3 +14,4 @@
 - 2024-02-04 15:36:22: docs(nodes): add tool calling node (1/4)
 - 2024-02-04 09:58:38: Merge branch 'refactor/langgraph-workflows-96' (2/4)
 - 2024-02-04 12:39:16: test(nodes): add tool calling node (3/4)
+- 2024-02-04 09:37:23: feat(debug): implement step-through debugging (4/4)
