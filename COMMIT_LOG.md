@@ -17,3 +17,4 @@
 - 2024-02-04 09:37:23: feat(debug): implement step-through debugging (4/4)
 - 2024-05-18 10:58:14: test(checkpoint): add SQLite checkpointer (1/4)
 - 2024-05-18 12:24:05: feat(checkpoint): implement time-travel (2/4)
+- 2024-05-18 21:09:08: feat(edges): add parallel execution (3/4)
