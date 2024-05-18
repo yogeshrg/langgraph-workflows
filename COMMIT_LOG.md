@@ -15,3 +15,4 @@
 - 2024-02-04 09:58:38: Merge branch 'refactor/langgraph-workflows-96' (2/4)
 - 2024-02-04 12:39:16: test(nodes): add tool calling node (3/4)
 - 2024-02-04 09:37:23: feat(debug): implement step-through debugging (4/4)
+- 2024-05-18 10:58:14: test(checkpoint): add SQLite checkpointer (1/4)
