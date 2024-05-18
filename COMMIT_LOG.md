@@ -18,3 +18,4 @@
 - 2024-05-18 10:58:14: test(checkpoint): add SQLite checkpointer (1/4)
 - 2024-05-18 12:24:05: feat(checkpoint): implement time-travel (2/4)
 - 2024-05-18 21:09:08: feat(edges): add parallel execution (3/4)
+- 2024-05-18 18:00:57: fix(debug): add trace export (4/4)
