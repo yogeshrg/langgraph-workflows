@@ -19,3 +19,4 @@
 - 2024-05-18 12:24:05: feat(checkpoint): implement time-travel (2/4)
 - 2024-05-18 21:09:08: feat(edges): add parallel execution (3/4)
 - 2024-05-18 18:00:57: fix(debug): add trace export (4/4)
+- 2024-05-26 15:07:49: test(nodes): add human-in-loop node (1/3)
