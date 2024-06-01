@@ -22,3 +22,4 @@
 - 2024-05-26 15:07:49: test(nodes): add human-in-loop node (1/3)
 - 2024-05-26 21:39:29: feat(state): define typed state schema (2/3)
 - 2024-05-26 18:15:45: test(streaming): token streaming via SSE (3/3)
+- 2024-06-01 11:42:42: refactor(streaming): token streaming via SSE (1/2)
