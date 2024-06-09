@@ -27,3 +27,4 @@
 - 2024-06-09 12:46:42: Merge branch 'feature/langgraph-workflows-45' (1/5)
 - 2024-06-09 14:52:41: Revert "add trace export" (2/5)
 - 2024-06-09 21:29:02: chore(debug): update dependencies (3/5)
+- 2024-06-09 17:25:52: feat(nodes): add tool calling node (4/5)
