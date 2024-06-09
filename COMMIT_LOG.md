@@ -24,3 +24,4 @@
 - 2024-05-26 18:15:45: test(streaming): token streaming via SSE (3/3)
 - 2024-06-01 11:42:42: refactor(streaming): token streaming via SSE (1/2)
 - 2024-06-01 17:35:01: test(state): implement state migration (2/2)
+- 2024-06-09 12:46:42: Merge branch 'feature/langgraph-workflows-45' (1/5)
