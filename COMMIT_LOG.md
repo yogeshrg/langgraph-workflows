@@ -34,3 +34,4 @@
 - 2024-10-13 17:31:11: refactor(nodes): add LLM node with streaming (3/4)
 - 2024-10-13 15:08:53: Revert "define typed state schema" (4/4)
 - 2024-10-19 09:39:40: fix(state): implement state migration (1/3)
+- 2024-10-19 09:01:33: feat(state): implement state migration (2/3)
