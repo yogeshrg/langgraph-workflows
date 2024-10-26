@@ -36,3 +36,4 @@
 - 2024-10-19 09:39:40: fix(state): implement state migration (1/3)
 - 2024-10-19 09:01:33: feat(state): implement state migration (2/3)
 - 2024-10-19 19:27:51: feat(edges): add parallel execution (3/3)
+- 2024-10-26 22:22:17: fix(nodes): add human-in-loop node (1/3)
