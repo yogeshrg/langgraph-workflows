@@ -38,3 +38,4 @@
 - 2024-10-19 19:27:51: feat(edges): add parallel execution (3/3)
 - 2024-10-26 22:22:17: fix(nodes): add human-in-loop node (1/3)
 - 2024-10-26 20:14:19: docs(checkpoint): add checkpoint compression (2/3)
+- 2024-10-26 16:03:40: docs(state): add state validation (3/3)
