@@ -39,3 +39,4 @@
 - 2024-10-26 22:22:17: fix(nodes): add human-in-loop node (1/3)
 - 2024-10-26 20:14:19: docs(checkpoint): add checkpoint compression (2/3)
 - 2024-10-26 16:03:40: docs(state): add state validation (3/3)
+- 2024-10-28 10:57:33: refactor(checkpoint): add checkpoint compression (1/4)
