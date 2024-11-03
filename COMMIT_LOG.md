@@ -46,3 +46,4 @@
 - 2024-11-03 17:47:22: fix(debug): add trace export (1/5)
 - 2024-11-03 18:38:25: feat(nodes): add tool calling node (2/5)
 - 2024-11-03 15:27:11: docs(checkpoint): add SQLite checkpointer (3/5)
+- 2024-11-03 10:17:09: refactor(streaming): token streaming via SSE (4/5)
