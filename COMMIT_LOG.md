@@ -43,3 +43,4 @@
 - 2024-10-28 23:04:43: test(debug): implement step-through debugging (2/4)
 - 2024-10-28 14:01:13: feat(debug): add visual graph inspector (3/4)
 - 2024-10-28 18:53:54: refactor(state): define typed state schema (4/4)
+- 2024-11-03 17:47:22: fix(debug): add trace export (1/5)
