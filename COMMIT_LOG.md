@@ -49,3 +49,4 @@
 - 2024-11-03 10:17:09: refactor(streaming): token streaming via SSE (4/5)
 - 2024-11-03 13:28:23: refactor(edges): add conditional edges (5/5)
 - 2025-02-22 09:10:31: Merge branch 'feature/langgraph-workflows-90' (1/4)
+- 2025-02-22 20:49:55: refactor(debug): add visual graph inspector (2/4)
