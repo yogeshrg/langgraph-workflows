@@ -53,3 +53,4 @@
 - 2025-02-22 13:45:36: docs(edges): implement dynamic routing (3/4)
 - 2025-02-22 22:36:10: chore(checkpoint): update dependencies (4/4)
 - 2025-03-01 09:02:54: feat(streaming): token streaming via SSE (1/2)
+- 2025-03-01 11:59:54: refactor(checkpoint): implement time-travel (2/2)
