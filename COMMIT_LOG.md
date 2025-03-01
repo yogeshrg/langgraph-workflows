@@ -52,3 +52,4 @@
 - 2025-02-22 20:49:55: refactor(debug): add visual graph inspector (2/4)
 - 2025-02-22 13:45:36: docs(edges): implement dynamic routing (3/4)
 - 2025-02-22 22:36:10: chore(checkpoint): update dependencies (4/4)
+- 2025-03-01 09:02:54: feat(streaming): token streaming via SSE (1/2)
