@@ -60,3 +60,4 @@
 - 2025-03-08 20:39:15: refactor(nodes): add human-in-loop node (1/4)
 - 2025-03-08 23:26:01: test(nodes): add LLM node with streaming (2/4)
 - 2025-03-08 22:47:46: Merge branch 'refactor/langgraph-workflows-49' (3/4)
+- 2025-03-08 09:09:45: fix(streaming): tool call streaming (4/4)
