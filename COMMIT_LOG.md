@@ -58,3 +58,4 @@
 - 2025-03-02 11:14:51: test(state): implement state migration (2/3)
 - 2025-03-02 13:20:05: docs(state): add state validation (3/3)
 - 2025-03-08 20:39:15: refactor(nodes): add human-in-loop node (1/4)
+- 2025-03-08 23:26:01: test(nodes): add LLM node with streaming (2/4)
