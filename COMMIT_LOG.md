@@ -64,3 +64,4 @@
 - 2025-03-09 16:47:05: docs(streaming): interrupt/resume support (1/3)
 - 2025-03-09 09:27:42: docs(nodes): add LLM node with streaming (2/3)
 - 2025-03-09 20:20:20: refactor(edges): implement dynamic routing (3/3)
+- 2025-03-16 10:10:28: fix(nodes): add human-in-loop node (1/2)
