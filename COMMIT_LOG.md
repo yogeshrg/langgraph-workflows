@@ -69,3 +69,4 @@
 - 2025-07-20 16:18:16: feat(debug): implement step-through debugging (1/2)
 - 2025-07-20 19:20:27: feat(nodes): add tool calling node (2/2)
 - 2025-08-02 14:22:57: fix(state): implement state migration (1/2)
+- 2025-08-02 15:29:17: refactor(edges): add conditional edges (2/2)
