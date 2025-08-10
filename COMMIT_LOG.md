@@ -75,3 +75,4 @@
 - 2025-08-03 10:16:41: feat(checkpoint): implement time-travel (3/3)
 - 2025-08-10 20:39:06: refactor(debug): add trace export (1/3)
 - 2025-08-10 17:57:39: docs(edges): add conditional edges (2/3)
+- 2025-08-10 10:48:31: docs(streaming): tool call streaming (3/3)
