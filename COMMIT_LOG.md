@@ -73,3 +73,4 @@
 - 2025-08-03 22:10:06: fix(state): implement state migration (1/3)
 - 2025-08-03 21:22:39: docs(debug): add visual graph inspector (2/3)
 - 2025-08-03 10:16:41: feat(checkpoint): implement time-travel (3/3)
+- 2025-08-10 20:39:06: refactor(debug): add trace export (1/3)
