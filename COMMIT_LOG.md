@@ -78,3 +78,4 @@
 - 2025-08-10 10:48:31: docs(streaming): tool call streaming (3/3)
 - 2025-08-16 15:25:52: test(state): define typed state schema (1/4)
 - 2025-08-16 16:28:20: test(checkpoint): implement time-travel (2/4)
+- 2025-08-16 09:52:05: Revert "implement state migration" (3/4)
