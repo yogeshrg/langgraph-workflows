@@ -83,3 +83,4 @@
 - 2025-08-17 19:23:45: test(streaming): interrupt/resume support (1/4)
 - 2025-08-17 22:40:51: fix(debug): add visual graph inspector (2/4)
 - 2025-08-17 16:08:52: feat(edges): add conditional edges (3/4)
+- 2025-08-17 23:54:25: test(edges): add conditional edges (4/4)
