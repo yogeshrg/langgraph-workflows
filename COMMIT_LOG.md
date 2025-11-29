@@ -87,3 +87,4 @@
 - 2025-11-29 10:33:16: test(edges): add parallel execution (1/5)
 - 2025-11-29 16:56:38: refactor(checkpoint): implement time-travel (2/5)
 - 2025-11-29 19:17:13: fix(checkpoint): add SQLite checkpointer (3/5)
+- 2025-11-29 19:14:26: test(edges): add parallel execution (4/5)
