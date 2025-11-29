@@ -85,3 +85,4 @@
 - 2025-08-17 16:08:52: feat(edges): add conditional edges (3/4)
 - 2025-08-17 23:54:25: test(edges): add conditional edges (4/4)
 - 2025-11-29 10:33:16: test(edges): add parallel execution (1/5)
+- 2025-11-29 16:56:38: refactor(checkpoint): implement time-travel (2/5)
