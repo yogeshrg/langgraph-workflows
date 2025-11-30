@@ -90,3 +90,4 @@
 - 2025-11-29 19:14:26: test(edges): add parallel execution (4/5)
 - 2025-11-29 11:41:53: docs(debug): implement step-through debugging (5/5)
 - 2025-11-30 19:32:02: test(nodes): add human-in-loop node (1/2)
+- 2025-11-30 15:38:36: refactor(nodes): add LLM node with streaming (2/2)
