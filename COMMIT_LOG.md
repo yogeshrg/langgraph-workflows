@@ -92,3 +92,4 @@
 - 2025-11-30 19:32:02: test(nodes): add human-in-loop node (1/2)
 - 2025-11-30 15:38:36: refactor(nodes): add LLM node with streaming (2/2)
 - 2025-12-13 22:30:10: docs(nodes): add human-in-loop node (1/2)
+- 2025-12-13 13:10:46: fix(streaming): interrupt/resume support (2/2)
