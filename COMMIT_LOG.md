@@ -94,3 +94,4 @@
 - 2025-12-13 22:30:10: docs(nodes): add human-in-loop node (1/2)
 - 2025-12-13 13:10:46: fix(streaming): interrupt/resume support (2/2)
 - 2025-12-14 09:12:33: docs(nodes): add tool calling node (1/2)
+- 2025-12-14 18:38:02: feat(streaming): token streaming via SSE (2/2)
